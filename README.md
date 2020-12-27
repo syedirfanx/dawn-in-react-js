@@ -1,2 +1,2 @@
 # dawn-in-react-js
-Rise with react js fundumentals.
+Rise with react js fundamentals.
